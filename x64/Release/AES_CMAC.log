@@ -1,0 +1,8 @@
+﻿  AES_CMAC.cpp
+  main.cpp
+  Generating code
+  9 of 316 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AES_CMAC.vcxproj -> D:\VisualStudio Projects\AES_CMAC\AES_CMAC\x64\Release\AES_CMAC.exe
